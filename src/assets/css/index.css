@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.maxImg{
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.margenesTarjeta{
+  margin: 1em;
+}
+
+.minImg{
+  max-height: 30px;
+  max-width: 30px;
+}
+
+.gratis {
+  color: #41a549;
+}
+
+.costoEnvio{
+  color: #e94d05;
+}
+
+.verticalLine {
+  border-left: 1px solid rgba(134, 126, 126, 0.26);
+  height: 100%;
+}
+
+.sizeImg{
+  min-height: 350px;
+  max-height: 350px;
+  min-width: 350px;
+  max-width: 350px;
+  
+}
+
+.title{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.descripcion{
+  font-size: 13px;
+}
+
+.instrumento {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.precio{
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: normal;
+}
+
+iframe {
+  width: 80%;
+  height: 350px;
+ }
+
+
+ .form {
+  background: linear-gradient(45deg, #f6e6e4ab, #ca8a8ba2);
+  
+ }
+
+ .prevImg{
+  max-height: 150px;
+  max-width: 150px;
+}
